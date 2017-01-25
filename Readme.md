@@ -1,6 +1,8 @@
-Note: This project is no longer actively maintained. Please refer to its spiritual successor [rmq].
+Note: The origin project is no longer actively maintained. Please refer to its spiritual successor [rmq].
 
 [rmq]: https://github.com/adjust/rmq
+
+Note from Maohj: This is the version currently used and maintained by me.
 
 --
 
